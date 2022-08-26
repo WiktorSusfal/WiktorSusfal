@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WiktorSusfal
 - 👀 I’m interested in Data Engineering
-- 💞️ I’m looking to collaborate on developing data engineering solutions - ETLs, dashbords, advanced reports etc...
+- 💞️ I’m looking to collaborate on developing data engineering solutions - ETLs, dashboards, advanced reports etc...
 - 📫 How to reach me: wiktor.susfal@gmail.com, https://www.linkedin.com/in/wiktor-susfa%C5%82-3566631b4/
 
 <!---
